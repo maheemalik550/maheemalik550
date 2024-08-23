@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and certified web and mobile application developer with a focus on the MERN stack (MongoDB, Express.js, React, Node.js) and React Native for cross-platform mobile apps.</h3>
 
 - 🌱 I’m currently learning Typescript Next.js
-- 📫 How to reach me Email: maheenmalik55q@@gmail.com
+- 📫 How to reach me Email: maheenmalik55q@gmail.com
 - 💬 Ask me about Reactjs ,React Native ,Nodejs
 
 <h3 align="left">Connect with me:</h3>
