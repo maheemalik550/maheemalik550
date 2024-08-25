@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Maheen Malik</h1>
+<h1 align="center">Hi 👋 I'm Maheen Malik</h1>
 <h3 align="center">A passionate and certified web and mobile application developer with a focus on the MERN stack (MongoDB, Express.js, React, Node.js) and React Native for cross-platform mobile apps.</h3>
 
 - 🌱 I’m currently learning Typescript Next.js
