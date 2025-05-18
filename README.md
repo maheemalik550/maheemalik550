@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 I'm Maheen Malik</h1>
-<h3 align="center">A passionate and certified web and mobile application developer with a focus on the MERN stack (MongoDB, Express.js, React, Node.js) and React Native for cross-platform mobile apps.</h3>
+<h3 align="center">A passionate software developer.As a passionate software developer, I focus on clean code, performance, and delivering robust APIs that power seamless user experiences.)</h3>
 
-- 🌱 I’m currently learning Typescript Next.js
+- 🌱 I’m currently learning ...
 - 📫 How to reach me Email: maheenmalik55q@gmail.com
-- 💬 Ask me about Reactjs ,React Native ,Nodejs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
