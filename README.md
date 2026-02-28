@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Maheen Malik</h1>
 <h3 align="center">A passionate software developer.As a passionate software developer, I focus on clean code, performance, and delivering robust APIs that power seamless user experiences.)</h3>
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python,Flask ,Generative AI
 - 📫 How to reach me Email: maheenmalik55q@gmail.com
 
 <h3 align="left">Connect with me:</h3>
