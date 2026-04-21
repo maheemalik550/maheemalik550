@@ -46,22 +46,4 @@ A passionate software developer focused on clean code, performance, and building
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maheenmalik550&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheenmalik550&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenmalik550&layout=compact&theme=tokyonight" />
-</p>
-
--
